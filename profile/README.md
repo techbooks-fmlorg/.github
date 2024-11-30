@@ -6,7 +6,7 @@
 
 ## レビュー済
 
-- [ITインフラ演習環境 hands-on-base 0.3.0 の設計と実装](hands-on-base-setup.0.3.0.pdf)
+- [ITインフラ演習環境 hands-on-base 0.3.0 の設計と実装](https://distribution.techbooks.fml.org/hands-on-base-setup.0.3.0.pdf)
     - コピー本
     - ベースの演習環境の解説書
     - [LPI Webinar 2024-06-08](https://lpic-2024q2.demo.fml.org/)用に開発した環境です
@@ -30,7 +30,7 @@
 
 これがガクチカ？でも、未レビューなので、細部を信じてはいけません;_;
 
-- [実践！サイバーセキュリティのすすめ 0.1.0](techbook-hands-on-cse2024.0.1.0.pdf)
+- [実践！サイバーセキュリティのすすめ 0.1.0](https://distribution.techbooks.fml.org/techbook-hands-on-cse2024.0.1.0.pdf)
     - コピー本
     - 2023秋〜2024春学期のインフラ部の成果物になります。
         - コンテンツの担当はインフラ部
