@@ -6,6 +6,11 @@
 
 ## レビュー済
 
+- [厳選UNIXコマンド 第2版](https://distribution.techbooks.fml.org/selected-unix-commands.2.0.0.pdf)
+   - 3年生の授業で用いるコマンドだけに絞ってあります(総計36コマンド)。
+     いわゆる「カリカリにチューン」された内容です
+   - 授業で出てこなくても知っておいた方が良い知識やオプション等が執筆者と監修者の判断で少し追加されています
+   - [home page](https://selected-unix-commands.techbooks.fml.org/)
 - [ITインフラ演習環境 hands-on-base 0.3.0 の設計と実装](https://distribution.techbooks.fml.org/hands-on-base-setup.0.3.0.pdf)
     - コピー本
     - ベースの演習環境の解説書
